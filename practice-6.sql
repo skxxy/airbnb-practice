@@ -1,5 +1,5 @@
 -- How many reviews are written per neighborhood?
-
+SELECT * FROM reviews;
 -- +------------------------+----------+
 -- | Albany Park            | 2557     |
 -- | Archer Heights         | 541      |
